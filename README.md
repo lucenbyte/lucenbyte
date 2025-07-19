@@ -1,6 +1,6 @@
 
 <div align="center">
-# **Hi, I'm RivenSyx 👋**
+## **Hi, I'm RivenSyx 👋**
 
 Exploring code & security🔐 | Coffee-fueled bug explorer☕ | Lamer learning to be a future master🐛
 
