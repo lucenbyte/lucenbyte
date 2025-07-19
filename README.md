@@ -5,13 +5,7 @@
 ☕ Coffee-fueled bug explorer  
 🐛 Lamer learning to be a future master  
 
-🔗 Connect with me:  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YourUsername)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YourUsername)
-
----
-
-### 🛠️ My Tech Stack
+🛠️ My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
