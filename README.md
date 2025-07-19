@@ -7,7 +7,6 @@
 🐛 Lamer learning to be a future master
 
 <div align="center">
----
 
 ## 🧰 Tech Stack
 
