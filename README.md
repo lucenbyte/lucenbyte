@@ -1,5 +1,5 @@
 
-**Hi, I'm ArchiLogs 👋**
+**Hi, I'm RivenSyx 👋**
 
 🔐 Exploring code & security  
 ☕ Coffee-fueled bug explorer  
