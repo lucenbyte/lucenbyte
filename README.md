@@ -21,14 +21,12 @@
 <img src="https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
 
----
 
 ## ☠️ My Repos Disclaimer
 
 > All tools and scripts here are intended for **educational purposes only**.  
 > I take no responsibility for misuse — use wisely.
 
----
 
 ## 🧠 Ongoing
 
