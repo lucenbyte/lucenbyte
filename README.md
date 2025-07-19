@@ -22,14 +22,9 @@ Exploring code & security🔐 | Coffee-fueled bug explorer☕ | Lamer le
 
 ---
 
-## 🧠 Ongoing
-
-
----
-
 ## ⚠️ Repo Disclaimer
 
-> All tools and scripts are shared for **educational purposes only**.  
-> Use responsibly — I take no responsibility for misuse.
+All tools and scripts are shared for **educational purposes only**.  
+Use responsibly — I take no responsibility for misuse.
 
 </div>
