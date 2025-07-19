@@ -6,8 +6,9 @@
 ☕ Coffee-fueled bug explorer  
 🐛 Lamer learning to be a future master
 
----
 <div align="center">
+---
+
 ## 🧰 Tech Stack
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
@@ -20,7 +21,7 @@
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
-</div>
+
 ---
 
 ## ☠️ My Repos Disclaimer
@@ -36,3 +37,4 @@
 - coding tools I probably shouldn’t run in prod  
 - making peace with 500 error pages
 
+</div>
