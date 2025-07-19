@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm **RivenSyx**
 
-🔐 Exploring code & security | ☕ Coffee-fueled bug explorer | 🐛 Lamer learning to be a future master
+🔐 Exploring code & security | ☕ Coffee-fueled bug explorer | 🐛 Lamer learning to be a future master | 🔥 Learning bug bounty (slowburn mode) | 🧪 Coding tools I probably shouldn’t run in prod | 💀 Making peace with 500 error pages
+
 
 ---
 
@@ -23,7 +24,6 @@
 
 ## 🧠 Ongoing
 
-🔥 Learning bug bounty (slowburn mode) | 🧪 Coding tools I probably shouldn’t run in prod | 💀 Making peace with 500 error pages
 
 ---
 
