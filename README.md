@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # **Hi, I'm RivenSyx 👋**
 
@@ -7,7 +7,7 @@
 🐛 Lamer learning to be a future master
 
 ---
-
+<div align="center">
 ## 🧰 Tech Stack
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
