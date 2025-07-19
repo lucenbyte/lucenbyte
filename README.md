@@ -5,7 +5,7 @@
 ☕ Coffee-fueled bug explorer  
 🐛 Lamer learning to be a future master  
 
-🛠️ My Tech Stack
+### 🚀 Tech Stack I Mess With:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -20,28 +20,26 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Stats & Progression
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-
----
-
-### ☕ Support Me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YourUsername)
+![lucenbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucenbyte&show_icons=true&theme=radical)
 
 ---
 
-### 🔒 Disclaimer  
-*Tools and codes are shared for educational purpose only. Use responsibly.*
+### 🌐 Reach Me On
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername)  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@YourMedium)
 
 ---
 
-### 🎯 Bonus:
-- Pakai ASCII generator: https://patorjk.com/software/taag/
-- Pakai badge: https://shields.io/
-- Untuk stats: https://github.com/anuraghazra/github-readme-stats
+### ⚠️ Disclaimer
+
+> All tools and scripts here are intended for **educational purposes only**.  
+> I take no responsibility for misuse — use wisely. 🧠
 
 ---
 
-Kalau lo mau, gue buatin template siap pakai versi lo. Mau? Cukup kasih username GitHub lo, tagline, dan link Telegram (kalau ada).
+### 💀 Motto
+
+> *“I archive my chaos before it archives me.”*  
