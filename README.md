@@ -29,8 +29,6 @@
 
 ## 🧠 Ongoing
 
-- learning bug bounty slowburn 🔥  
-- coding tools I probably shouldn’t run in prod  
-- making peace with 500 error pages
+learning bug bounty slowburn🔥 | coding tools I probably shouldn’t run in prod | making peace with 500 error pages
 
 </div>
