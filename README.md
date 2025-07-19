@@ -20,15 +20,13 @@
 <img src="https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
 
+## 🧠 Ongoing
+
+learning bug bounty slowburn🔥 | coding tools I probably shouldn’t run in prod | making peace with 500 error pages
 
 ## ☠️ My Repos Disclaimer
 
 > All tools and scripts here are intended for **educational purposes only**.  
 > I take no responsibility for misuse — use wisely.
-
-
-## 🧠 Ongoing
-
-learning bug bounty slowburn🔥 | coding tools I probably shouldn’t run in prod | making peace with 500 error pages
 
 </div>
