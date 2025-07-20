@@ -5,9 +5,6 @@
 ✨ Exploring code & security 🔐 | ☕ Coffee-fueled bug explorer | 🐛 Lamer learning to be a future master  
 🔥 Learning bug bounty slowburn | 🧪 Coding tools I probably shouldn’t run in prod | 💀 Making peace with 500 error pages  
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00ffff&center=true&vCenter=true&multiline=true&lines=💻+Welcome+to+my+chaotic+lab!;🔥+Tinkering+with+web+tools;🐚+Bash,+bugs+and+browsers;🚀+Let%E2%80%99s+break+things...+carefully!" alt="Typing SVG" />
-
-
 ## 🧰 Tech Stack
 
 <p align="center">
