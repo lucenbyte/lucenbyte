@@ -5,7 +5,6 @@
 Exploring code & security🔐 | Coffee-fueled bug explorer☕ | Lamer learning to be a future master🐛 | Learning bug bounty slowburn🔥 | Coding tools I probably shouldn’t run in prod🧪 | Making peace with 500 error pages💀
 
 
----
 
 ## 🧰 Tech Stack
 
@@ -20,11 +19,6 @@ Exploring code & security🔐 | Coffee-fueled bug explorer☕ | Lamer le
 <img src="https://img.shields.io/badge/-CodeIgniter-E44D26?logo=codeigniter&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
 
----
 
-## ⚠️ My Repo Disclaimer
-
-All tools and scripts are shared for **educational purposes only**.  
-Use responsibly — I take no responsibility for misuse.
 
 </div>
