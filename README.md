@@ -7,7 +7,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00ffff&center=true&vCenter=true&multiline=true&lines=💻+Welcome+to+my+chaotic+lab!;🔥+Tinkering+with+web+tools;🐚+Bash,+bugs+and+browsers;🚀+Let%E2%80%99s+break+things...+carefully!" alt="Typing SVG" />
 
----
 
 ## 🧰 Tech Stack
 
@@ -36,16 +35,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">
 </p>
-
----
-
-## ⚠️ <span style="font-size:20px;"><b>Disclaimers!</b></span>
-
-> **🚧 This repo is made for learning & educational purpose only.**  
-> Any misuse, illegal use, or ya pokoknya hal-hal aneh, it's on you — not me.  
-> You’ve been warned like a responsible dev 🙃  
-
----
 
 ## 🎯 GitStatus
 
