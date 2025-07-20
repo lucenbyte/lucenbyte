@@ -7,8 +7,6 @@
     Learning bug bounty slowburn 🔥 | Coding tools I probably shouldn’t run in prod 🧪 | Making peace with 500 error pages 💀
   </p>
 
-  <hr style="margin: 30px auto; width: 60%; border: 0; height: 1px; background: #ddd;">
-
   <h2 style="font-size: 1.6em; margin-bottom: 15px;">🧰 Tech Stack</h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
